@@ -1,4 +1,4 @@
-# Bank Loan Analysis | Excel Dashboard
+# Bank Loan Analysis
 
 ## Project Overview
 
